@@ -1,0 +1,69 @@
+@media only screen and (max-width: 768px){
+
+    .ticket{
+        width: 80%;
+    }
+
+    .ticket__link{
+        width: 70%;
+        margin-bottom: 20px;
+        font-size: 1.5rem;
+    }
+
+    .ticket__form{
+        width: 80%; 
+    }
+
+    .ticket__table{
+        height: 100%;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .btn-novo{
+        width: 50%;
+        margin-bottom: 15px;
+    }
+
+    .ticket__table h2{
+        width: 50%;
+    }
+
+    .r-t{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .login {
+        width: 100%;
+        padding: 0;
+    }
+
+    .login__card-content{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+
+    .login__card-body p {
+        font-size: 1rem;
+    }
+
+    .login__card-body{
+        width: 100%;
+    }
+
+    .login__card-body form{
+        width: 100%;
+        padding: 0;
+    }
+
+    .width100{
+        width: 100%;
+    }
+
+
+
+}
